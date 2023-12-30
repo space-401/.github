@@ -1,7 +1,7 @@
 # 🌠 KIRRI
 
 <div align="center">
-<img src="./img/selectlogo.png" style="padding-right: 20px"/>
+<img src="https://raw.githubusercontent.com/space-401/.github/main/profile/img/selectlogo.png" style="padding-right: 20px"/>
 <div style="font-weight: 600">프라이빗에게 추억을 공유하고 정리할 수 있는 사이트, 끼리!</div>
 </div>
 
