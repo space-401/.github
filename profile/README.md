@@ -5,10 +5,6 @@
 <img src="https://raw.githubusercontent.com/space-401/.github/main/profile/img/selectlogo.png" style="padding-right: 20px"/>
 </div>
 
-### 메인 페이지 
-
-![스크린샷 2023-12-31 오후 12 17 38](https://github.com/space-401/.github/assets/125418818/0c737d2d-1f0d-4873-8960-8ec000d35d30)
-
 ### Member
 
 |Front end|Front end|Back end|Back end|Designer|Designer|
@@ -17,19 +13,30 @@
 | [오혜린](https://github.com/ooherin)|[이지형](https://github.com/Jihyeong00)|[손서연](https://github.com/seoyeonson)|[이재선](https://github.com/jason-lee-webdev)| 최인화|고수연|
 ||||
 
-### KKIRI 멤버
+### Frontend Stack
 
 #### Main
 
-![스크린샷 2024-01-01 오후 11 54 42](https://github.com/space-401/.github/assets/125418818/f2522156-67ec-4500-b528-69b9c901fd12)
+<img src="https://github.com/space-401/.github/assets/125418818/f2522156-67ec-4500-b528-69b9c901fd12" style="width:60%;" />
 
 #### Style
 
-![스크린샷 2024-01-01 오후 11 54 48](https://github.com/space-401/.github/assets/125418818/62da6a63-87dc-40d4-8272-7c0acecb2ba8)
+<img src="https://github.com/space-401/.github/assets/125418818/62da6a63-87dc-40d4-8272-7c0acecb2ba8" style="width:45%;" />
 
 #### Server Deployment
 
-![스크린샷 2024-01-01 오후 11 54 54](https://github.com/space-401/.github/assets/125418818/77477b26-dec7-4d69-aac7-97692970e2ee)
+<img src="https://github.com/space-401/.github/assets/125418818/77477b26-dec7-4d69-aac7-97692970e2ee" style="width:45%;" />
+
+### Backend Stack
+
+#### Main
+
+<img src="https://github.com/space-401/.github/assets/125418818/3033f7d5-6cde-4d04-b9bf-cdc719583286" style="width:60%;" />
+
+#### Server Deployment
+
+<img src="https://github.com/space-401/.github/assets/125418818/46f08c5d-56d3-4d33-9e3e-65a30ff09008" style="width:65%;" />
+
 
 ### 기능
 Auth 
