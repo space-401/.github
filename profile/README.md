@@ -39,36 +39,62 @@
 
 
 ### 기능
-Auth 
-- 소셜 로그인 (네이버, 카카오)
+Main - 메인 페이지
 
+  <img src="https://github.com/space-401/.github/assets/125418818/da79c9b9-9f20-4c34-8466-8280a7e6b7f1" width="60%">
+  
+Auth -소셜 로그인 (네이버, 카카오)
+
+  <img src="https://github.com/space-401/.github/assets/125418818/17b3a197-f6aa-4a4c-8b8d-8cb9380f69c2" width="60%">
+
+Space 
+    
+  스페이스 생성 / 수정 
+
+  <img src="https://github.com/space-401/.github/assets/125418818/10354964-7bb3-45ab-886b-51ffefb2c67e" width="60%">
+
+  스페이스 선택 및 입장 / 삭제
+
+  <img src="https://github.com/space-401/.github/assets/125418818/13494f09-bcea-461b-b998-6fc357b2385c" width="60%">
+
+  스페이스 유저 초대
+  
+  스페이스 내 유저 정보 생성 / 수정
+
+   <img src="https://github.com/space-401/.github/assets/125418818/4e23765d-75c9-48ed-8429-a7f512b69cf0" width="60%">
+
+  스페이스 방장 권한 주기
+
+   <img src="https://github.com/space-401/.github/assets/125418818/835d90fa-07e1-4d98-887c-729e45825969" width="60%">
+
+  스페이스 회원 탈퇴
+  
+  스페이스 태그 조회
+
+   <img src="https://github.com/space-401/.github/assets/125418818/24280411-171e-4e4d-a897-7b34ea6e3e0e" width="60%">
+
+Post
+
+  게시글 작성 / 수정 / 삭제 / 게시글 사진 다중 삽입 기능 
+
+ <img src="https://github.com/space-401/.github/assets/125418818/3f8d5661-b484-4a2c-8686-117343fc7abe" width="60%">
+
+- 게시글 상세 조회
+- 게시글 북마크 기능
+
+<img src="https://github.com/space-401/.github/assets/125418818/6d149482-cd3f-4af0-9437-4334281c7e5d" width="60%">
+ 
+- 게시글 댓글, 대댓글 작성 / 삭제
+  
+<img src="https://github.com/space-401/.github/assets/125418818/312b46a6-5847-49f1-a30f-4909e77f83cb" width="60%">
+
+ 
 MyPage
 - 내 북마크 조회
 - 내가 등록한 게시물 조회
 - 내가 등록한 댓글 조회
 
-Space
-- 스페이스 선택 및 입장
-- 스페이스 생성 / 수정 / 삭제
-- 스페이스 유저 초대
-- 스페이스 내 유저 정보 생성 / 수정
-- 스페이스 회원 탈퇴
-- 스페이스 태그 조회
-
-Post
-- 게시글 작성 / 수정 / 삭제
-- 게시글 사진 다중 삽입 기능 
-- 게시글 상세 조회
-- 게시글 북마크 기능
-- 게시글 댓글 작성 / 삭제 
-
-### 주요 스택 & 라이브러리
-
-#### Front
-
-<img src="https://github.com/space-401/.github/assets/125418818/91877fa2-6646-4356-9d4c-cb9ac5019adb"  width="600px"/>
-
-#### Backend
+<img src="https://github.com/space-401/.github/assets/125418818/32aae96c-e989-4458-b483-9d81aecf64cb" width="60%">
 
 
 ### 협업 문서
