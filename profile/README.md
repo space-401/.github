@@ -16,10 +16,13 @@
 
 ### ⭐️ Frontend Stack
 
+<div align="center">
+
 #### Main
 
 <img src="https://github.com/space-401/.github/assets/125418818/f2522156-67ec-4500-b528-69b9c901fd12" style="width:50%;" />
 
+  
 #### Style
 
 <img src="https://github.com/space-401/.github/assets/125418818/62da6a63-87dc-40d4-8272-7c0acecb2ba8" style="width:40%;" />
@@ -28,8 +31,12 @@
 
 <img src="https://github.com/space-401/.github/assets/125418818/77477b26-dec7-4d69-aac7-97692970e2ee" style="width:40%;" />
 
+</div>
+
 ### ⭐️ Backend Stack
 
+<div align="center">
+  
 #### Main
 
 <img src="https://github.com/space-401/.github/assets/125418818/3033f7d5-6cde-4d04-b9bf-cdc719583286" style="width:50%;" />
@@ -37,6 +44,8 @@
 #### Server Deployment
 
 <img src="https://github.com/space-401/.github/assets/125418818/46f08c5d-56d3-4d33-9e3e-65a30ff09008" style="width:55%;" />
+
+</div>
 
 #### 🎥 시연 영상 
 
@@ -151,23 +160,25 @@
   </tr>
   <tr>
      <td>
- <img src="https://github.com/space-401/.github/assets/125418818/64e6d1d7-d9c5-475d-a56d-038a7c269720" alt="마이페이지"/>
+     <img src="https://github.com/space-401/.github/assets/125418818/64e6d1d7-d9c5-475d-a56d-038a7c269720" alt="마이페이지"/>
     </td>
-     <td>
-    </td>
+    <th>
+ <img src="https://github.com/space-401/.github/assets/125418818/6268c146-280b-4e06-9ef7-bc4967267fdd" alt="게시글 보기"/>
+    </th>
   </tr>
   <tr>
     <th>
       마이페이지
     </th>
     <th>
-
+      게시글 보기 기능
     </th>
   </tr>
 </table>
 
 
 ### 협업 문서
+
 📝 [기획 notion](https://www.notion.so/KKIRI-a0c8179db215444880a9a10250c9deb0
 )
 
