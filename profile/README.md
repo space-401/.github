@@ -48,7 +48,6 @@
 </div>
 
 #### 🎥 시연 영상 
-
 <table style="text-align: center">
   <tr>
     <td>
@@ -95,35 +94,51 @@
     </th>
   </tr>
    <tr>
-    <td>
-       <img src="https://github.com/space-401/.github/assets/125418818/3f8d5661-b484-4a2c-8686-117343fc7abe" alt="게시글생성" />
-    </td>
-     <td>
+          <td>
        <img src="https://github.com/space-401/.github/assets/125418818/5f2f9c83-7296-472c-b6ec-8c8d4ad9a0da" alt="스페이스 초대" />
     </td>
+       <td>
+       <img src="https://github.com/space-401/.github/assets/125418818/24280411-171e-4e4d-a897-7b34ea6e3e0e" alt="스페이스 태그 설정 기능" />
+    </td>
   </tr>
   <tr>
-    <th>
-게시글 생성
-    </th>
-    <th>
+        <th>
 스페이스 초대
     </th>
+    <th>
+      스페이스 태그 설정 기능
+    </th>
+  </tr>
+     <tr>
+  <td>
+       <img src="https://github.com/space-401/.github/assets/125418818/3f8d5661-b484-4a2c-8686-117343fc7abe" alt="게시글 생성" />
+    </td>
+        <td>
+ <img src="https://github.com/space-401/.github/assets/125418818/6268c146-280b-4e06-9ef7-bc4967267fdd" alt="게시글 보기"/>
+    </td>
+  
+  <tr>
+    <th>
+      게시글 생성
+    </th>
+    <th>
+ 게시글 보기 및 페이지네이션
+    </th>
   </tr>
   <tr>
+         <td>
+      <img src="https://github.com/space-401/.github/assets/125418818/d35cf902-2919-49aa-a2bc-2aea2cc88466" alt="게시글 필터 기능" />
+  </td>
      <td>
        <img src="https://github.com/space-401/.github/assets/125418818/de37893b-99bd-485a-9896-eb6fbd52857f" alt="게시물 지도 보기 기능" />
     </td>
-     <td>
-        <img src="https://github.com/space-401/.github/assets/125418818/835d90fa-07e1-4d98-887c-729e45825969" alt="방장 권한 주기" />
-    </td>
   </tr>
   <tr>
-    <th>
-게시물 지도 보기 기능
+       <th>
+             게시글 필터 기능
     </th>
     <th>
-  방장 권한 주기
+게시물 지도 보기 기능
     </th>
   </tr>
    <tr>
@@ -143,38 +158,24 @@
     게시글 댓글 / 대댓글 기능
     </th>
   </tr>
-   <tr>
-     <td>
-       <img src="https://github.com/space-401/.github/assets/125418818/24280411-171e-4e4d-a897-7b34ea6e3e0e" alt="스페이스 태그 설정 기능" />
-    </td>
-     <td>
-      <img src="https://github.com/space-401/.github/assets/125418818/d35cf902-2919-49aa-a2bc-2aea2cc88466" alt="게시글 필터 기능" />
-  </tr>
-  <tr>
-    <th>
-      스페이스 태그 설정 기능
-    </th>
-    <th>
-     게시글 필터 기능
-    </th>
-  </tr>
   <tr>
      <td>
      <img src="https://github.com/space-401/.github/assets/125418818/64e6d1d7-d9c5-475d-a56d-038a7c269720" alt="마이페이지"/>
     </td>
-    <th>
- <img src="https://github.com/space-401/.github/assets/125418818/6268c146-280b-4e06-9ef7-bc4967267fdd" alt="게시글 보기"/>
-    </th>
+   <td>
+        <img src="https://github.com/space-401/.github/assets/125418818/835d90fa-07e1-4d98-887c-729e45825969" alt="방장 권한 주기" />
+    </td>
   </tr>
   <tr>
     <th>
       마이페이지
     </th>
     <th>
-      게시글 보기 기능
+   방장 권한 주기
     </th>
   </tr>
 </table>
+
 
 
 ### 협업 문서
