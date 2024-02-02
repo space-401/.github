@@ -14,6 +14,17 @@
 | <img src="https://github.com/space-401/FrontEnd/assets/125418818/472b166f-4dfb-47a5-a6fd-f3af9a6b2ab3" width="150"> |<img src="https://github.com/space-401/FrontEnd/assets/125418818/b3976ed7-91b1-4ab1-a367-63f271e22ddf" width="150"> |<img src="https://github.com/space-401/FrontEnd/assets/125418818/ed46b55e-172d-4d10-827e-6dd67ad7d762" width="150"> |<img src="https://github.com/space-401/FrontEnd/assets/125418818/3682d5b9-4a43-4618-b0be-f47e77306822" width="150">|<img src="https://github.com/space-401/.github/assets/125418818/5e579ca4-cd81-431b-84c7-804916cc298d" width="150">|<img src="https://github.com/space-401/.github/assets/125418818/cb9af640-97f1-4a36-b7ba-9ffff1bf4d4b" width="150">|
 | [오혜린](https://github.com/ooherin)|[이지형](https://github.com/Jihyeong00)|[손서연](https://github.com/seoyeonson)|[이재선](https://github.com/jason-lee-webdev)| 최인화|고수연|
 
+### 🌠 기능
+- 스페이스를 만들고 다른 사람을 8명까지 초대할 수 있습니다.
+- 카카오/네이버 소셜 로그인이 가능합니다. 
+- 한 사람당 최대 5개 까지 스페이스를 만들거나 들어갈 수 있습니다. 
+- 초대시 링크를 보내며, 링크를 받은 사람만이 해당 스페이스에 입장할 수 있습니다.
+- 스페이스의 개설자가 방장이 되며, 방장 권한을 다른 사람에게 줄 수 있습니다.
+- 스페이스 안에서 포스트를 작성할 수 있습니다. 포스트에는 여러개의 사진을 넣을 수 있으며, 끼리
+  내에서 편집기능과,순서를 바꾸는 기능을 제공합니다.
+- 포스트에서는 댓글과 대댓글을 작성할 수 있습니다.
+- 마이페이지에서는 내가 쓴 포스트와 댓글을 모아 볼 수 있습니다. 
+
 ### ⭐️ Frontend Stack
 
 <div align="center">
